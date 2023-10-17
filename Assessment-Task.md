@@ -6,12 +6,7 @@ Version Control with Git Task
 # **Use the following template when you use your version control system for accessing, staging, and committing changes to your project. 
 You must document each item in “Description Process and Commands” column, listed in the angular brackets << >>**
 
-## << Date action undertaken >>
-## << State exactly what action was undertaken and why >>
-## << State how you applied the action (What command did you run? What procedures/steps were undertaken?) >>
-## << Include links to the service provider procedures and documentation that provide instructions or information for this action >>
-## << Include screenshots of each steps undertaken >>
-## << Was the action successful? - what needs to change to improve the process? >>
+
 
 # 2. Respond to feedback. Make any recommended changes and amendments. Document changes and amendments.
 
