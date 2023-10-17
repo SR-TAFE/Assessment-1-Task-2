@@ -175,7 +175,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The working tree.
         C. The commit history.
 
-        Answer:
+        Answer:C
 
 2. How are Git commits connected?
 
@@ -183,7 +183,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit references its parent(s).
         C. The staging area lists the connections.
 
-        Answer:
+        Answer:B
 
 3. What is a Git ID?
 
@@ -191,7 +191,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The ID of the local repository.
         C. The user's name and email address.
 
-        Answer:
+        Answer:A
 
 4. If a large file changes by one character, what would you expect to happen to its corresponding SHA-1 value?
 
@@ -199,7 +199,7 @@ You must document each item in “Description Process and Commands” column, li
         B. It would not change.
         C. It would change drastically.
 
-        Answer:
+        Answer:C
 
 5. What do branch labels point to?
 
@@ -207,7 +207,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The initial commit of a branch.
         C. Every commit of a branch.
 
-        Answer:
+        Answer:A
 
 
 6. How many HEAD references are in a local repository?
@@ -216,7 +216,7 @@ You must document each item in “Description Process and Commands” column, li
         B. One for each commit.
         C. One.
 
-        Answer:
+        Answer:C
 
 
 7. Which one of these statements is correct?
@@ -225,7 +225,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A tag is another name for a branch label.
         C. The HEAD reference always points to a tag.
 
-        Answer:
+        Answer:A
 
 8. What happens when a branch is created?
 
@@ -233,7 +233,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A branch label is created.
         C. Commits are copied.
 
-        Answer:
+        Answer:B
 
 9. Which one of these statements is correct?
 
@@ -241,7 +241,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Checkout prevents others from changing a branch.
         C. Checkout retrieves content from the remote repository.
 
-        Answer:
+        Answer:A
 
 10. What does a detached HEAD mean?
 
@@ -249,7 +249,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The HEAD reference points to a branch label.
         C. The HEAD reference points directly to a commit SHA-1.
 
-        Answer:
+        Answer:C
 
 
 11. What does "deleting a branch" immediately do?
@@ -258,7 +258,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Deletes a branch label.
         C. Deletes only the commits that are unique to the branch.
 
-        Answer:
+        Answer:C
 
 12. Which one of the following statements is true?
 
@@ -266,7 +266,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A merge always creates a new commit.
         C. Merging combines the work of branches.
 
-        Answer:
+        Answer:C
 
 13. Which one of the following statements about fast-forward merges is true?
 
@@ -274,7 +274,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The merge may change some commits.
         C. The merge may result in a merge conflict.
 
-        Answer:
+        Answer:A
 
 14. If Git informs you that a fast-forward merge is not possible, which one of these statements is probably true?
 
@@ -282,7 +282,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The checked out commit has multiple parents.
         C. A commit was made on the base branch after the topic branch was created.
 
-        Answer:
+        Answer:C
 
 15. Which one of these statements is true?
 
@@ -290,7 +290,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A fast-forward merge results in a non-linear commit history.
         C. To perform a fast-forward merge, checkout the topic branch.
 
-        Answer:
+        Answer:A
 
 16. Which one of these statements about a merge involving a merge commit is true?
 
@@ -298,7 +298,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The merge is aborted if there are merge conflicts.
         C. Git places the result of the merge into a new commit.
 
-        Answer:
+        Answer:C
 
 # Completed Module 2 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
 
