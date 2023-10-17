@@ -175,7 +175,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The working tree.
         C. The commit history.
 
-        Answer:
+        Answer: C
 
 2. How are Git commits connected?
 
@@ -183,7 +183,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit references its parent(s).
         C. The staging area lists the connections.
 
-        Answer:
+        Answer: 
 
 3. What is a Git ID?
 
@@ -191,7 +191,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The ID of the local repository.
         C. The user's name and email address.
 
-        Answer:
+        Answer: A
 
 4. If a large file changes by one character, what would you expect to happen to its corresponding SHA-1 value?
 
@@ -199,7 +199,7 @@ You must document each item in “Description Process and Commands” column, li
         B. It would not change.
         C. It would change drastically.
 
-        Answer:
+        Answer: C
 
 5. What do branch labels point to?
 
@@ -290,7 +290,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A fast-forward merge results in a non-linear commit history.
         C. To perform a fast-forward merge, checkout the topic branch.
 
-        Answer:
+        Answer: A
 
 16. Which one of these statements about a merge involving a merge commit is true?
 
@@ -298,7 +298,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The merge is aborted if there are merge conflicts.
         C. Git places the result of the merge into a new commit.
 
-        Answer:
+        Answer: C
 
 # Completed Module 2 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
 
