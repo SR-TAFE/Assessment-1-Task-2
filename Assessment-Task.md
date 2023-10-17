@@ -1,14 +1,4 @@
 
-Version Control with Git Task
-
-# 1. Fork this repository "https://github.com/SR-TAFE/Assessment-1-Task-2" and complete Modules/Questions below. After each completed module commit the changes to your repository. Once complete you will have 4 commits 1 commit per completed module. 4 modules in total to complete below.
-
-# **Use the following template when you use your version control system for accessing, staging, and committing changes to your project. 
-You must document each item in “Description Process and Commands” column, listed in the angular brackets << >>**
-
-
-
-# 2. Respond to feedback. Make any recommended changes and amendments. Document changes and amendments.
 
 # Module 1 Assessment
 
