@@ -25,6 +25,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        A
+
 2. Which one of these statements about branches is true?
 
         A. The default branch is named "master".
@@ -32,6 +34,8 @@ You must document each item in “Description Process and Commands” column, li
         C. By default, a commit does not belong to a branch.
 
         Answer:
+
+        A - However this depends on the instance of Git. GitHub and GitLab for instance use "Main". Git uses "Master". The user can set it to whatever as well.
 
 3. What is a request to merge your branch into another branch called?
 
@@ -41,6 +45,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        C
+
 4. If a remote repository is offline, which one of the following is true?
 
         A. You must wait for the remote repository to become available.
@@ -48,6 +54,8 @@ You must document each item in “Description Process and Commands” column, li
         C. You can continue to work, but only with the current version of the project.
 
         Answer:
+
+        B
 
 5. Which one of the following is true?
 
@@ -57,6 +65,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        C
+
 6. Which one of these statements about commits is true?
 
         A. A commit contains only the changes to the project since the previous commit.
@@ -64,6 +74,8 @@ You must document each item in “Description Process and Commands” column, li
         C. Only the most recent commit is saved in the repository.
 
         Answer:
+
+        B
 
 7. Which location contains the list of files that will be included in the next commit?
 
@@ -74,6 +86,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        D
+
 8. Which location contains the commit history of a project?
 
         A. Staging area
@@ -82,6 +96,8 @@ You must document each item in “Description Process and Commands” column, li
         D. Working tree
 
         Answer:
+
+        B
 
 9. When a file is first placed in the working tree, what is its status?
 
@@ -92,6 +108,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        C
+
 10. What must you do to add a new file to the next commit?
 
         A. Push the file.
@@ -100,6 +118,8 @@ You must document each item in “Description Process and Commands” column, li
         D. Check out the file.
  
         Answer:
+
+        B
 
 11. If you create a local repository in a folder with existing files, what will be the status of the files?
 
@@ -110,6 +130,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        B
+
 12. Immediately after you commit, where is the commit located?
 
         A. Neither repository
@@ -118,6 +140,8 @@ You must document each item in “Description Process and Commands” column, li
         D. Local repository and remote repository
 
         Answer:
+
+        C
 
 13. Which one of these statements about remote repositories is true?
 
@@ -128,6 +152,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        C
+
 14. What is a local copy of a remote repository called?
 
         A. Branch
@@ -136,6 +162,8 @@ You must document each item in “Description Process and Commands” column, li
         D. Master
 
         Answer:
+
+        C
 
 15. After you clone a repository, which one of the following is true?
 
@@ -146,6 +174,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        B
+
 16. What is origin?
 
         A. The default branch name.
@@ -155,6 +185,8 @@ You must document each item in “Description Process and Commands” column, li
 
         Answer:
 
+        C
+
 17. What must you do to add a local commit to the remote repository?
 
         A. Push
@@ -163,6 +195,8 @@ You must document each item in “Description Process and Commands” column, li
         D. Merge
  
         Answer:
+
+        A
 
 
 # Completed Module 1 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
