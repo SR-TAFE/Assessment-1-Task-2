@@ -434,7 +434,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Create a branch.
         C. Merge a branch into a project.
 
-        Answer:
+        Answer: C
 
 2. Which one of these statements is true?
 
@@ -442,7 +442,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A pull request can be made only when a branch is being merged.
         C. A pull request must be made from a forked repository.
 
-        Answer:
+        Answer: A
 
 3. Which one of these statements is true?
 
@@ -450,7 +450,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Merging a pull request may result in a merge conflict.
         C. Merging a pull request always creates a merge commit.
 
-        Answer:
+        Answer: B
 
 4. Which one of these statements is true?
 
@@ -458,7 +458,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests can not be modified.
         C. Pull requests can facilitate team discussion.
 
-        Answer:
+        Answer: C
 
 5. When can you open a pull request?
 
@@ -466,7 +466,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Only when the branch is created.
         C. Only when the branch is ready to be merged.
 
-        Answer:
+        Answer: A
 
 6. Which one of these is true about squash merges?
 
@@ -474,7 +474,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A squash merge can not be done when merging a pull request.
         C. A squash merge creates a merge commit.
 
-        Answer:
+        Answer: A
 
 7. Which one of these statements is true?
 
@@ -482,7 +482,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A fork is a remote repository.
         C. A fork is an upstream repository.
 
-        Answer:
+        Answer: B
 
 8. Which one of statements about forks is true?
 
@@ -490,7 +490,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The upstream repository always has access to the fork.
         C. The upstream repository may have access to the fork.
 
-        Answer:
+        Answer: C
 
 9. After forking a repository, which one of these statements is true?
 
@@ -498,7 +498,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The two repositories will automatically remain synchronized.
         C. The commit histories of the two repositories may begin to differ.
 
-        Answer:
+        Answer: C
 
 10. Which one of these statements is true?
 
@@ -506,7 +506,7 @@ You must document each item in “Description Process and Commands” column, li
         B. There is no reason to clone a forked repository.
         C. A fork and a clone are the same thing.
 
-        Answer:
+        Answer: A
 
 11. Assume that you have a forked repository and an upstream repository. Who selects the merge strategy if a pull request is merged?
 
@@ -514,7 +514,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The person merging the pull request.
         C. The requester.
 
-        Answer:
+        Answer: B
 
 12. Which one of these statements about centralized workflows is true?
 
@@ -522,7 +522,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests are common in centralized workflows.
         C. Using a centralized workflow is discouraged.
 
-        Answer:
+        Answer: A
 
 13. Which one of these statements about feature branch workflows is true?
 
@@ -530,7 +530,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests are not possible in feature branch workflows.
         C. Most work is done on a feature branch.
 
-        Answer:
+        Answer: C
 
 14. Which one of these statements about forking workflows is true?
 
@@ -538,7 +538,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The forked repository must have write access to the upstream repository.
         C. A forking workflow involves multiple remote repositories.
 
-        Answer:
+        Answer: C
 
 15. Which one of these statements about Gitflow workflows is true?
 
@@ -546,6 +546,6 @@ You must document each item in “Description Process and Commands” column, li
         B. Gitflow workflows contain no long-running branches.
         C. Gitflow workflows work best with small projects.
 
-        Answer:
+        Answer: A
 
 # Completed Module 4 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
