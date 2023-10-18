@@ -310,7 +310,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Merge conflicts can be fast-forward merged.
         C. Merge conflicts occur when a person needs to make a decision.
 
-        Answer:
+        Answer: C
 
 2. Assume that you have a topic branch merging into a base branch. Which one of the following is involved in resolving a merge conflict?
 
@@ -318,7 +318,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pushing to the remote repository.
         C. Adding file(s) to the staging area.
 
-        Answer:
+        Answer: C
 
 3. Assume that you have a topic branch merging into a base branch. Which one of these situations is most likely to create a merge conflict?
 
@@ -326,7 +326,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The topic branch modifies fileA.txt. The base branch modifies README.md.
         C. In README.md, the topic branch modifies the header and the base branch modifies the footer.
 
-        Answer:
+        Answer: C
 
 4. Which one of the following statements is true?
 
@@ -334,7 +334,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A tracking branch label always points to the same SHA-1 as the remote branch label.
         C. A tracking branch label never points to the same SHA-1 as the remote branch label.
 
-        Answer:
+        Answer: A
 
 5. Which one of the following is most likely to have tracking branches?
 
@@ -342,7 +342,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A remote repository.
         C. A local repository.
 
-        Answer:
+        Answer: C
 
 6. Immediately after you clone a repository, which one of these statements is most likely to be true?
 
@@ -350,7 +350,7 @@ You must document each item in “Description Process and Commands” column, li
         B. There are no tracking branches.
         C. The tracking branch label and local branch label point to the same commit.
 
-        Answer:
+        Answer: C
 
 7. If you perform a fetch and new objects are retrieved, which one of these is most likely to be true?
 
@@ -358,7 +358,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The local branch label and tracking branch label will point to the same commit.
         C. The tracking branch label will point to a new commit.
 
-        Answer:
+        Answer: C
 
 8. Which one of these statements is true?
 
@@ -366,7 +366,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Fetch does not update the local branch tip.
         C. Fetch may result in a merge conflict.
 
-        Answer:
+        Answer: B
 
 9. Which one of these statements is true?
 
@@ -374,7 +374,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull combines fetch and push.
         C. Push combines fetch and merge.
 
-        Answer:
+        Answer: A
 
 10. A pull may result in which one of the following?
 
@@ -382,7 +382,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A merge commit on the remote repository.
         C. A fast-forward merge.
 
-        Answer:
+        Answer: C
 
 11. When should you avoid rebasing a branch?
 
@@ -390,7 +390,7 @@ You must document each item in “Description Process and Commands” column, li
         B. If you have shared the branch.
         C. If a merge conflict occurs.
 
-        Answer:
+        Answer: B
 
 12. Which one of the following statements is true?
 
@@ -398,7 +398,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase always results in a merge conflict.
         C. A rebase may result in a merge conflict.
 
-        Answer:
+        Answer: C
 
 13. Which one of the following statements is true?
 
@@ -406,7 +406,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase may rewrite the commit history.
         C. A rebase always rewrites the commit history.
 
-        Answer:
+        Answer: B
 
 14. Which one of the following statements is true?
 
@@ -414,7 +414,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase may result in a merge conflict.
         C. Rebasing a topic branch involves checking out the base branch.
 
-        Answer:
+        Answer: B
 
 15. Which one of the following statements is true?
 
@@ -422,7 +422,7 @@ You must document each item in “Description Process and Commands” column, li
         B. An interactive rebase may involve a single branch.
         C. An interactive rebase must involve two or more branches.
 
-        Answer:
+        Answer: A
 
 # Completed Module 3 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
 
