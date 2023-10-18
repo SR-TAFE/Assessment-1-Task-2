@@ -23,7 +23,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Each version of the project is called a branch.
         C. A commit containing one small change to a project is not practical.
 
-        Answer:
+        Answer: A
 
 2. Which one of these statements about branches is true?
 
@@ -31,7 +31,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A branch contains a small part of the project.
         C. By default, a commit does not belong to a branch.
 
-        Answer:
+        Answer: A
 
 3. What is a request to merge your branch into another branch called?
 
@@ -39,7 +39,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Automated test
         C. Pull request
 
-        Answer:
+        Answer: C
 
 4. If a remote repository is offline, which one of the following is true?
 
@@ -47,7 +47,7 @@ You must document each item in “Description Process and Commands” column, li
         B. You can continue to work with the local repository.
         C. You can continue to work, but only with the current version of the project.
 
-        Answer:
+        Answer: B
 
 5. Which one of the following is true?
 
@@ -55,7 +55,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Git is owned by a single company.
         C. Git implements distributed version control.
 
-        Answer:
+        Answer: C
 
 6. Which one of these statements about commits is true?
 
@@ -63,7 +63,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit is a snapshot of the project.
         C. Only the most recent commit is saved in the repository.
 
-        Answer:
+        Answer: B
 
 7. Which location contains the list of files that will be included in the next commit?
 
@@ -72,7 +72,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Branch
         D. Staging area
 
-        Answer:
+        Answer: D
 
 8. Which location contains the commit history of a project?
 
@@ -81,7 +81,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Branch
         D. Working tree
 
-        Answer:
+        Answer: B
 
 9. When a file is first placed in the working tree, what is its status?
 
@@ -90,7 +90,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Untracked
         D. Committed
 
-        Answer:
+        Answer: C
 
 10. What must you do to add a new file to the next commit?
 
@@ -99,7 +99,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Tag the file.
         D. Check out the file.
  
-        Answer:
+        Answer: B
 
 11. If you create a local repository in a folder with existing files, what will be the status of the files?
 
@@ -108,7 +108,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Committed
         D. Modified
 
-        Answer:
+        Answer: B
 
 12. Immediately after you commit, where is the commit located?
 
@@ -117,7 +117,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Local repository
         D. Local repository and remote repository
 
-        Answer:
+        Answer: D
 
 13. Which one of these statements about remote repositories is true?
 
@@ -126,7 +126,7 @@ You must document each item in “Description Process and Commands” column, li
         C. By convention, remote repository names end in ".git".
         D. You must have one remote repository for each local repository.
 
-        Answer:
+        Answer: B
 
 14. What is a local copy of a remote repository called?
 
@@ -135,7 +135,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Clone
         D. Master
 
-        Answer:
+        Answer: C
 
 15. After you clone a repository, which one of the following is true?
 
@@ -144,7 +144,7 @@ You must document each item in “Description Process and Commands” column, li
         C. New commits on the remote repository will automatically be added to the local repository.
         D. Only the most recent commit is available locally.
 
-        Answer:
+        Answer: B
 
 16. What is origin?
 
@@ -153,7 +153,7 @@ You must document each item in “Description Process and Commands” column, li
         C. An alias for the remote repository's URL.
         D. The first commit of the repository.
 
-        Answer:
+        Answer: B
 
 17. What must you do to add a local commit to the remote repository?
 
@@ -162,7 +162,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Pull
         D. Merge
  
-        Answer:
+        Answer: A
 
 
 # Completed Module 1 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
@@ -175,7 +175,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The working tree.
         C. The commit history.
 
-        Answer:
+        Answer: C
 
 2. How are Git commits connected?
 
@@ -183,7 +183,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit references its parent(s).
         C. The staging area lists the connections.
 
-        Answer:
+        Answer: 
 
 3. What is a Git ID?
 
@@ -191,7 +191,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The ID of the local repository.
         C. The user's name and email address.
 
-        Answer:
+        Answer: A
 
 4. If a large file changes by one character, what would you expect to happen to its corresponding SHA-1 value?
 
@@ -199,7 +199,7 @@ You must document each item in “Description Process and Commands” column, li
         B. It would not change.
         C. It would change drastically.
 
-        Answer:
+        Answer: C
 
 5. What do branch labels point to?
 
@@ -290,7 +290,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A fast-forward merge results in a non-linear commit history.
         C. To perform a fast-forward merge, checkout the topic branch.
 
-        Answer:
+        Answer: A
 
 16. Which one of these statements about a merge involving a merge commit is true?
 
@@ -298,7 +298,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The merge is aborted if there are merge conflicts.
         C. Git places the result of the merge into a new commit.
 
-        Answer:
+        Answer: C
 
 # Completed Module 2 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
 
@@ -310,7 +310,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Merge conflicts can be fast-forward merged.
         C. Merge conflicts occur when a person needs to make a decision.
 
-        Answer:
+        Answer: C
 
 2. Assume that you have a topic branch merging into a base branch. Which one of the following is involved in resolving a merge conflict?
 
@@ -318,7 +318,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pushing to the remote repository.
         C. Adding file(s) to the staging area.
 
-        Answer:
+        Answer: B
 
 3. Assume that you have a topic branch merging into a base branch. Which one of these situations is most likely to create a merge conflict?
 
@@ -326,7 +326,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The topic branch modifies fileA.txt. The base branch modifies README.md.
         C. In README.md, the topic branch modifies the header and the base branch modifies the footer.
 
-        Answer:
+        Answer: A
 
 4. Which one of the following statements is true?
 
@@ -334,7 +334,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A tracking branch label always points to the same SHA-1 as the remote branch label.
         C. A tracking branch label never points to the same SHA-1 as the remote branch label.
 
-        Answer:
+        Answer: A
 
 5. Which one of the following is most likely to have tracking branches?
 
@@ -342,7 +342,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A remote repository.
         C. A local repository.
 
-        Answer:
+        Answer: B
 
 6. Immediately after you clone a repository, which one of these statements is most likely to be true?
 
@@ -350,7 +350,7 @@ You must document each item in “Description Process and Commands” column, li
         B. There are no tracking branches.
         C. The tracking branch label and local branch label point to the same commit.
 
-        Answer:
+        Answer: C
 
 7. If you perform a fetch and new objects are retrieved, which one of these is most likely to be true?
 
@@ -358,7 +358,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The local branch label and tracking branch label will point to the same commit.
         C. The tracking branch label will point to a new commit.
 
-        Answer:
+        Answer: C
 
 8. Which one of these statements is true?
 
@@ -366,7 +366,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Fetch does not update the local branch tip.
         C. Fetch may result in a merge conflict.
 
-        Answer:
+        Answer: B
 
 9. Which one of these statements is true?
 
@@ -374,15 +374,14 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull combines fetch and push.
         C. Push combines fetch and merge.
 
-        Answer:
-
+        Answer: A
 10. A pull may result in which one of the following?
 
         A. A new checked out branch.
         B. A merge commit on the remote repository.
         C. A fast-forward merge.
 
-        Answer:
+        Answer: C
 
 11. When should you avoid rebasing a branch?
 
@@ -390,7 +389,7 @@ You must document each item in “Description Process and Commands” column, li
         B. If you have shared the branch.
         C. If a merge conflict occurs.
 
-        Answer:
+        Answer: B
 
 12. Which one of the following statements is true?
 
@@ -398,7 +397,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase always results in a merge conflict.
         C. A rebase may result in a merge conflict.
 
-        Answer:
+        Answer: C
 
 13. Which one of the following statements is true?
 
@@ -406,7 +405,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase may rewrite the commit history.
         C. A rebase always rewrites the commit history.
 
-        Answer:
+        Answer: C
 
 14. Which one of the following statements is true?
 
@@ -414,7 +413,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A rebase may result in a merge conflict.
         C. Rebasing a topic branch involves checking out the base branch.
 
-        Answer:
+        Answer: B
 
 15. Which one of the following statements is true?
 
@@ -422,7 +421,7 @@ You must document each item in “Description Process and Commands” column, li
         B. An interactive rebase may involve a single branch.
         C. An interactive rebase must involve two or more branches.
 
-        Answer:
+        Answer: B
 
 # Completed Module 3 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
 
@@ -434,7 +433,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Create a branch.
         C. Merge a branch into a project.
 
-        Answer:
+        Answer: C
 
 2. Which one of these statements is true?
 
@@ -442,7 +441,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A pull request can be made only when a branch is being merged.
         C. A pull request must be made from a forked repository.
 
-        Answer:
+        Answer: A
 
 3. Which one of these statements is true?
 
@@ -450,7 +449,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Merging a pull request may result in a merge conflict.
         C. Merging a pull request always creates a merge commit.
 
-        Answer:
+        Answer: B
 
 4. Which one of these statements is true?
 
@@ -458,7 +457,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests can not be modified.
         C. Pull requests can facilitate team discussion.
 
-        Answer:
+        Answer: C
 
 5. When can you open a pull request?
 
@@ -466,7 +465,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Only when the branch is created.
         C. Only when the branch is ready to be merged.
 
-        Answer:
+        Answer: A
 
 6. Which one of these is true about squash merges?
 
@@ -474,7 +473,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A squash merge can not be done when merging a pull request.
         C. A squash merge creates a merge commit.
 
-        Answer:
+        Answer: A
 
 7. Which one of these statements is true?
 
@@ -482,7 +481,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A fork is a remote repository.
         C. A fork is an upstream repository.
 
-        Answer:
+        Answer: B
 
 8. Which one of statements about forks is true?
 
@@ -490,7 +489,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The upstream repository always has access to the fork.
         C. The upstream repository may have access to the fork.
 
-        Answer:
+        Answer: C
 
 9. After forking a repository, which one of these statements is true?
 
@@ -498,7 +497,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The two repositories will automatically remain synchronized.
         C. The commit histories of the two repositories may begin to differ.
 
-        Answer:
+        Answer: C
 
 10. Which one of these statements is true?
 
@@ -506,7 +505,7 @@ You must document each item in “Description Process and Commands” column, li
         B. There is no reason to clone a forked repository.
         C. A fork and a clone are the same thing.
 
-        Answer:
+        Answer: A
 
 11. Assume that you have a forked repository and an upstream repository. Who selects the merge strategy if a pull request is merged?
 
@@ -514,7 +513,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The person merging the pull request.
         C. The requester.
 
-        Answer:
+        Answer: B
 
 12. Which one of these statements about centralized workflows is true?
 
@@ -522,7 +521,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests are common in centralized workflows.
         C. Using a centralized workflow is discouraged.
 
-        Answer:
+        Answer: A
 
 13. Which one of these statements about feature branch workflows is true?
 
@@ -530,7 +529,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Pull requests are not possible in feature branch workflows.
         C. Most work is done on a feature branch.
 
-        Answer:
+        Answer: C
 
 14. Which one of these statements about forking workflows is true?
 
@@ -538,7 +537,7 @@ You must document each item in “Description Process and Commands” column, li
         B. The forked repository must have write access to the upstream repository.
         C. A forking workflow involves multiple remote repositories.
 
-        Answer:
+        Answer: C
 
 15. Which one of these statements about Gitflow workflows is true?
 
@@ -546,6 +545,6 @@ You must document each item in “Description Process and Commands” column, li
         B. Gitflow workflows contain no long-running branches.
         C. Gitflow workflows work best with small projects.
 
-        Answer:
+        Answer: A
 
 # Completed Module 4 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
