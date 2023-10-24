@@ -23,7 +23,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Each version of the project is called a branch.
         C. A commit containing one small change to a project is not practical.
 
-        Answer: A
+        Answer: 
 
 2. Which one of these statements about branches is true?
 
@@ -31,7 +31,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A branch contains a small part of the project.
         C. By default, a commit does not belong to a branch.
 
-        Answer:A
+        Answer:
 
 3. What is a request to merge your branch into another branch called?
 
@@ -39,7 +39,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Automated test
         C. Pull request
 
-        Answer:C
+        Answer:
 
 4. If a remote repository is offline, which one of the following is true?
 
@@ -47,7 +47,7 @@ You must document each item in “Description Process and Commands” column, li
         B. You can continue to work with the local repository.
         C. You can continue to work, but only with the current version of the project.
 
-        Answer:B
+        Answer:
 
 5. Which one of the following is true?
 
@@ -55,7 +55,7 @@ You must document each item in “Description Process and Commands” column, li
         B. Git is owned by a single company.
         C. Git implements distributed version control.
 
-        Answer:C
+        Answer:
 
 6. Which one of these statements about commits is true?
 
@@ -63,7 +63,7 @@ You must document each item in “Description Process and Commands” column, li
         B. A commit is a snapshot of the project.
         C. Only the most recent commit is saved in the repository.
 
-        Answer: B
+        Answer: 
 
 7. Which location contains the list of files that will be included in the next commit?
 
@@ -72,7 +72,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Branch
         D. Staging area
 
-        Answer: D
+        Answer: 
 
 8. Which location contains the commit history of a project?
 
@@ -81,7 +81,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Branch
         D. Working tree
 
-        Answer:B
+        Answer:
 
 9. When a file is first placed in the working tree, what is its status?
 
@@ -90,7 +90,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Untracked
         D. Committed
 
-        Answer:C
+        Answer:
 
 10. What must you do to add a new file to the next commit?
 
@@ -99,7 +99,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Tag the file.
         D. Check out the file.
  
-        Answer:B
+        Answer:
 
 11. If you create a local repository in a folder with existing files, what will be the status of the files?
 
@@ -108,7 +108,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Committed
         D. Modified
 
-        Answer:B
+        Answer:
 
 12. Immediately after you commit, where is the commit located?
 
@@ -117,7 +117,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Local repository
         D. Local repository and remote repository
 
-        Answer:C
+        Answer:
 
 13. Which one of these statements about remote repositories is true?
 
@@ -126,7 +126,7 @@ You must document each item in “Description Process and Commands” column, li
         C. By convention, remote repository names end in ".git".
         D. You must have one remote repository for each local repository.
 
-        Answer:C
+        Answer:
 
 14. What is a local copy of a remote repository called?
 
@@ -135,7 +135,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Clone
         D. Master
 
-        Answer:C
+        Answer:
 
 15. After you clone a repository, which one of the following is true?
 
@@ -144,7 +144,7 @@ You must document each item in “Description Process and Commands” column, li
         C. New commits on the remote repository will automatically be added to the local repository.
         D. Only the most recent commit is available locally.
 
-        Answer:B
+        Answer:
 
 16. What is origin?
 
@@ -153,7 +153,7 @@ You must document each item in “Description Process and Commands” column, li
         C. An alias for the remote repository's URL.
         D. The first commit of the repository.
 
-        Answer:C
+        Answer:
 
 17. What must you do to add a local commit to the remote repository?
 
